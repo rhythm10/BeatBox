@@ -1,19 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-
-import java.awt.*;
-import javax.swing.*;
-import javax.swing.event.ListSelectionEvent;
-import javax.swing.event.ListSelectionListener;
 import java.io.*;
 import javax.sound.midi.*;
 import java.util.*;
 import java.awt.event.*;
 import java.net.*;
+import java.awt.*;
+import javax.swing.*;
+import javax.swing.event.ListSelectionEvent;
+import javax.swing.event.ListSelectionListener;
 
 
 public class BeatBoxFinal {  // implements MetaEventListener 
